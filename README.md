@@ -1,2 +1,1 @@
-# AlgoCasts
-# AlgoCasts
+Algorithm and Data Structure practice
